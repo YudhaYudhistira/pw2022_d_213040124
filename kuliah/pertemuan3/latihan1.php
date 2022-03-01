@@ -32,10 +32,14 @@
 <body>
     
     <table border="1" cellpadding="10" cellpacing="0">
-        <?php for( $i = 1; $i <= 3; $i++) { ?>
+        <?php for( $i = 1; $i <= 3; $i++) : ?>
 
-        <?php } ?>
-        
+            <tr>
+                <?php for( $j = 1; $j <= 5; $j++ ) { ?>
+                <td><?php echo "$i, $j"; ?></td>
+                <?php } ?>
+            </tr>
+        <?php endfor; ?>
     </table>
  
 </body>
