@@ -61,6 +61,22 @@ echo "<hr>";
 $x = 30; 
 var_dump($x < 20 && $x % 2 == 0);
 echo "<hr>"; 
+
+// Increment & Decrement
+// ++, --
+$b = 10;
+echo ++$b;
+echo "<br>";
+echo $b--;
+echo "<hr>";
+
+// Identitas
+// ===, !==
+echo 10 === "10";
+echo "<hr>";
+
+// Komponen sintax PHP yang lain
+echo "selesai mengerjakan tugas pertemuan 2";
 ?>
  <!-- 1. PHP di dalam html -->
 <!-- 2. HTML 'di dalam PHP -->
