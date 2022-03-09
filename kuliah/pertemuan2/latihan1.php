@@ -89,7 +89,7 @@ echo "selesai mengerjakan tugas pertemuan 2";
     <title>Belajar PHP</title>
 </head>
 <body>
-    <h1>Selamat Datang Yudha <?php echo $nama; ?></h1>
+    <h1>Selamat Datang VINA <?php echo $nama; ?></h1>
     <p><?php echo "Ini adalah paragraf"; ?></p>
 </body>
 </html>
