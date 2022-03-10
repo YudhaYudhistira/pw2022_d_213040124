@@ -10,7 +10,7 @@ function salam($waktu = "Datang", $nama = "Admin"){
     <title>Latihan Function</title>
 </head>
 <body>
-    <h1><?= salam("Pagi", "Vina"); ?></h1>
+    <h1><?= salam("Pagi", "YUdha"); ?></h1>
 </body>
 </html>
 
