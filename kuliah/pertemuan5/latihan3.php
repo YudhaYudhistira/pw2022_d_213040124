@@ -6,7 +6,7 @@ $mahasiswa = [
 "yudhistirayudha09@gmail.com","Teknik Informatika"],
 ["Vina Nur Fauziah", "213040115", "vinaanurfauziah@gmail.com", 
 "Teknik Informatika"],
-["Muhammad Nazrililah", "Najril@gamil.com", "Teknik Informatika"]
+["Muhammad Najrililah", "Najril@gmail.com","213040122", "Teknik Informatika"]
 ];
 
 ?>
